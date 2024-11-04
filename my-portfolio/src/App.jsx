@@ -1,6 +1,11 @@
 import Navbar from "./components/Navbar";
 
+<<<<<<< HEAD
 const App =() =>  {
+=======
+const App = () => {
+  
+>>>>>>> d51e01ca535cee71c48937feec415de1c6ffc9f8
 
   return (
     <div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-slate-300 selection:text-slate-900">   
