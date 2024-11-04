@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Body from "./components/Body";
+import About from "./components/About";
 
 const App = () => {
     return (
@@ -10,6 +11,7 @@ const App = () => {
             <div className="container mx-auto my-8 px-4 md:px-8">
                 <Navbar />
                 <Body />
+                <About />
             </div>
         </div>
     );

@@ -1,5 +1,3 @@
-
-
 import computer from "../assets/computer.jpg";
 import { motion } from "framer-motion";
 
