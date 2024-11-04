@@ -1,4 +1,3 @@
-
 import mypic from "../assets/mypic.jpeg";
 import { motion } from "framer-motion";
 
