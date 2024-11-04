@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = () => {
+  
 
   return (
     <div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-slate-300 selection:text-slate-900">   
