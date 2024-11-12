@@ -1,7 +1,7 @@
 import Body from "./components/Body";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
-import { app, analytics } from "./firebase"; // Import from the firebase.js file
+
 
 const App = () => {
   return (
