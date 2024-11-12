@@ -29,7 +29,7 @@ const Body = () => {
               animate="visible"
               className="bg-gradient-to-r from-purple-300 to-purple-500 bg-clip-text text-4xl tracking-tight text-cyan"
             >
-              Web Developer
+              System Developer
             </motion.span>
             <motion.p
               variants={container(1)}
@@ -37,13 +37,17 @@ const Body = () => {
               animate="visible"
               className="my-3 max-w-xl py-6 font-light tracking-tighter"
             >
-              I am a passionate Web developer with a knack for crafting
-              robust and scalable web applications. With 5 years of hands-on
-              experience, I have honed my skills in front-end technologies like
-              React and Next.js, as well as back-end technologies like Node.js,
-              MySQL, PostgreSQL, and MongoDB. My goal is to leverage my
-              expertise to create innovative solutions that drive business
-              growth and deliver exceptional user experiences
+              With two years of experience as a system developer, I am
+              passionate about creating impactful solutions that drive business
+              growth and elevate user experiences. My expertise spans front-end
+              technologies like React and Next.js and back-end development using
+              Node.js, MySQL, PostgreSQL, and MongoDB. I thrive on the challenge
+              of turning complex requirements into innovative, efficient systems
+              that empower users and streamline operations. By staying current
+              with the latest industry trends and focusing on seamless
+              integration and robust functionality, I am dedicated to developing
+              solutions that not only meet client needs but also anticipate
+              future demands, adding real value to every project I undertake.
             </motion.p>
           </div>
         </div>

@@ -31,7 +31,7 @@ const About = () => {
               transition={{ duration: 0.5 }}
               className="my-2 max-w-xl py-6"
             >
-              I am a dedicated and versatile full stack developer with a passion
+              I am a dedicated and versatile System developer with a passion
               for creating efficient and user-friendly web applications. With few
               years of experience, I have worked with a variety of
               technologies, including React, Next.js, Node.js, MySQL,
