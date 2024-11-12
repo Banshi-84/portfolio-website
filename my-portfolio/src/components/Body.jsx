@@ -37,7 +37,7 @@ const Body = () => {
               animate="visible"
               className="my-3 max-w-xl py-6 font-light tracking-tighter"
             >
-              I am a passionate full stack developer with a knack for crafting
+              I am a passionate Web developer with a knack for crafting
               robust and scalable web applications. With 5 years of hands-on
               experience, I have honed my skills in front-end technologies like
               React and Next.js, as well as back-end technologies like Node.js,
