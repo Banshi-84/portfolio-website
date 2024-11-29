@@ -1,7 +1,10 @@
 import Body from "./components/Body";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
-
+import Tech from "./components/Tech";
+import Project from "./components/Project";
+import Experience from "./components/Experience";
+import Form from "./components/Form";
 
 const App = () => {
   return (
@@ -15,6 +18,10 @@ const App = () => {
         <Navbar /> 
         <Body />
         <About />
+        <Tech />
+        <Project />
+        <Experience />
+        <Form />
       </div>
     </div>
   );
