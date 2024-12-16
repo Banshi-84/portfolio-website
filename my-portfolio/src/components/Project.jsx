@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Weather App",
     image: project1,
-    link: "https://weather-app-1274f.web.app/",
+    link: "https://weather-app-d5281.web.app/",
     description: [
       "Built a personalized weather app integrating Open Weather API and ChatGPT API that provides accurate clothing recommendations for different weather conditions.",
       "Implemented a Celsius/Fahrenheit toggle feature and successfully deployed on GitHub Pages."
