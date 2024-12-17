@@ -6,7 +6,7 @@
 import project1 from "../assets/ダウンロード.jpeg";
 import { motion } from "framer-motion";
 import project2 from "../assets/SimpleTimeApp.jpeg";
-
+import project3 from "../assets/ER.jpg";
 const projects = [
   {
     title: "Weather App",
@@ -17,6 +17,16 @@ const projects = [
       "Implemented a Celsius/Fahrenheit toggle feature and successfully deployed on GitHub Pages."
     ],
     technologies: ["JavaScript", "React.js", "Next.js", "HTML", "Open Weather API", "ChatGPT API"]
+  },
+  {
+    title: "Emergency Room App",
+    image: project3,
+    link: "https://github.com/Banshi-84/EmergencyRoomApp",
+    description: [
+      "Press and hold the red button for 5 seconds to dial 911. While waiting for an ambulance, you can ask a medical assistant for first aid using the Chat GPT API. Map function allows you to know where you are.",
+      "Static answer by Bolt was replaced by dynamic answer using Chat GPT API. Confirmed operation on local server and successfully deployed to Github."
+    ],
+    technologies: ["JavaScript", "CSS", "Next.js","Typescript", "React", "HTML", "Bolt.new", "ChatGPT API"]
   },
   {
     title: "SimpleTimeApp",
