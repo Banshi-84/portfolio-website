@@ -7,6 +7,7 @@ import project1 from "../assets/ダウンロード.jpeg";
 import { motion } from "framer-motion";
 import project2 from "../assets/SimpleTimeApp.jpeg";
 import project3 from "../assets/ER.jpg";
+import project4 from "../assets/RandomImageGenerator.jpg"
 const projects = [
   {
     title: "Weather App",
@@ -27,6 +28,16 @@ const projects = [
       "Static answer by Bolt was replaced by dynamic answer using Chat GPT API. Confirmed operation on local server and successfully deployed to Github."
     ],
     technologies: ["JavaScript", "CSS", "Next.js","Typescript", "React", "HTML", "Bolt.new", "ChatGPT API"]
+  },
+  {
+    title: "Random Image Generator",
+    image: project4,
+    link: "https://github.com/Banshi-84/Random-Image-Generator",
+    description: [
+      "Built a random image generator using the Pixabay API that provide an image when user push the button",
+      "Implemented a function that generates a new image every time a button is pressed, and successfully deployed it on a GitHub pages."
+    ],
+    technologies: ["Pixabay API", "Python", "HTML", "CSS"]
   },
   {
     title: "SimpleTimeApp",
