@@ -6,7 +6,7 @@ const Navbar = () => {
             <div className="flex flex-shrink-0 items-center font-bold text-xl ml-10 text-emerald-700">
                 <button className="border-2 border-neutral-800 rounded-md">
                     <a
-                        href="https://docs.google.com/document/d/15cyBW1L7-Olpg4KSgDKLpiX2JPdM5yti/edit?usp=sharing&ouid=109890119586344133342&rtpof=true&sd=true"
+                        href="https://docs.google.com/document/d/1wwiambHz1Np2YeWmtWL0GiC6n4lEiN9oA6toplJKK00/edit?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="px-4 py-2"
