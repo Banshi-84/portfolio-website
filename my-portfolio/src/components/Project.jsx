@@ -8,7 +8,19 @@ import { motion } from "framer-motion";
 import project2 from "../assets/SimpleTimeApp.jpeg";
 import project3 from "../assets/ER.jpg";
 import project4 from "../assets/RandomImageGenerator.jpg"
+import project5 from "../assets/shateki.jpg"
 const projects = [
+  {
+    title: "Shateki (shooting game)",
+    image: project5,
+    link: "https://shateki-front.vercel.app/",
+    description: [
+      "Using TypeScript, React, and the Canvas API, I developed a shooting game inspired by traditional Japanese festivals.",
+      "I implemented both the frontend and backend, designing class-based game logic and score management systems.",
+      "As the technical lead of a small team, I directed the overall system architecture and guided team members in implementing scalable, real-time features."
+    ],
+    technologies: ["TypeScript", "JavaScript", "React.js", "React Router", "Framer Motion", "Vite", "Node.js", "Express.js", "MongoDB", "Mongoose", "Vercel", "CORS"]
+  },
   {
     title: "Weather App",
     image: project1,
