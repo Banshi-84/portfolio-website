@@ -9,6 +9,7 @@ import project2 from "../assets/SimpleTimeApp.jpeg";
 import project3 from "../assets/ER.jpg";
 import project4 from "../assets/RandomImageGenerator.jpg"
 import project5 from "../assets/shateki.jpg"
+import project6 from "../assets/StockMarket.jpg"
 const projects = [
   {
     title: "Shateki (shooting game)",
@@ -40,6 +41,16 @@ const projects = [
       "Static answer by Bolt was replaced by dynamic answer using Chat GPT API. Confirmed operation on local server and successfully deployed to Github."
     ],
     technologies: ["JavaScript", "CSS", "Next.js","Typescript", "React", "HTML", "Bolt.new", "ChatGPT API"]
+  },
+  {
+    title: "Observer-Strategy-Trading-System",
+    image: project6,
+    link: "https://github.com/Banshi-84/observer-strategy-trading-system",
+    description: [
+      "Implemented a Java-based stock market simulator using Observer and Strategy patterns, enabling event-driven auto-trading.",
+      "Designed for extensibility with dynamic strategy switching and multi-investor support."
+    ],
+    technologies: ["Java"]
   },
   {
     title: "Random Image Generator",
