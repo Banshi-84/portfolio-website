@@ -1,9 +1,5 @@
-// import project1 from "../assets/projects/project-1.png";
-// import chatbot from "../assets/projects/chatbot.png";
-// import webscraper from "../assets/projects/webscraper.png";
-// import bank from "../assets/projects/bank.png";
-// import faceid from "../assets/projects/faceid.jpg";
-import project1 from "../assets/ダウンロード.jpeg";
+
+import project1 from "../assets/WeatherApp.jpg";
 import { motion } from "framer-motion";
 import project2 from "../assets/SimpleTimeApp.jpeg";
 import project3 from "../assets/ER.jpg";
